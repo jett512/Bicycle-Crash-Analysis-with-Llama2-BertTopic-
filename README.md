@@ -25,7 +25,7 @@ All of these are installed within the notebook, but are included below for local
 * wget
 * huggingface.co/TheBloke/OpenHermes-2.5-Mistral-7B-GGUF
 
-# Benchmarking
+## Benchmarking
 * octis
 * genism
 * datasets
